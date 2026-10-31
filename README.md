@@ -5,7 +5,7 @@ Mechanical engineering student at Cal State Fullerton (class of 2028), based in 
 
 Long-term goal: earn my PE license, gain industry experience, and eventually start a product company focused on practical everyday solutions.
 
-###🎓 Background
+### 🎓 Background
 
 Coursework: Statics, Strength of Materials, Thermodynamics, Dynamics, Circuits, Design Graphics. Currently in Fluid Mechanics and a SolidWorks design course.
 Tutoring: one-on-one engineering tutor at Ace Tutors
