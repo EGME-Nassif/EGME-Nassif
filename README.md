@@ -13,7 +13,7 @@ Hands-on: DIY mechanical and electrical work, motorcycles, and truck projects
 
 ### 🚀 What I'm Working On
 
-Multi-robot testbed — Design-is-ALL Lab
+Multi-robot testbed Design-is-ALL Lab
 
 I founded the lab's hardware division about a year ago and still lead it. Our funded research project aims to build autonomous robots that can work independently and collaborate as a team, in the style of an assembly line.
 
